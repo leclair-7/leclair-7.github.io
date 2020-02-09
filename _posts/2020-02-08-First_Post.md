@@ -21,5 +21,5 @@ $$
 $$
 
 # Sources
-https://www.fast.ai/2019/05/13/blogging-advice/
+https://www.fast.ai/2019/05/13/blogging-advice/  
 https://www.youtube.com/watch?v=pPN8d0E3900
