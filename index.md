@@ -1,10 +1,10 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Welcome do Lucas's Blog. 
+Learning PySyft things right now.
 
+
+## Example Things
+And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
 ![Image of fast.ai logo](images/logo.png)
 
-## This is a title
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
-
-This serves as a hello world, or an "I can EDIT THIS PAGE!!!"  
-Wait have to use the previous button
+I'm keeping this link for my future reference: [Markdown](https://guides.github.com/features/mastering-markdown/). 
