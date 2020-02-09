@@ -11,8 +11,8 @@ description: PySyft, and I haven't planned anything else
 github_username: leclair-7
 
 # Email and twitter are optional:
-email:
-twitter_username:
+email: lucas.hagel@disroot.org
+twitter_username: hagel_rl
 
 # Set this to true to get LaTeX math equation support
 use_math:
